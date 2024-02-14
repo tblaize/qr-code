@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-color:hsl(212, 45%, 89%);
+}
+#main{
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 36px;
+}
+
+.upper-part img{
+width: 280px;
+border-radius: 36px;
+margin-left: 10px;
+margin-top: 10px;
+}
+.lower-part h1{
+font-size: 20px;
+text-align: center;
+padding: 10px;
+color: hsl(218, 44%, 22%);
+font-weight: 700;
+}
+.lower-part p{
+    color:hsl(220, 15%, 55%);
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+   
